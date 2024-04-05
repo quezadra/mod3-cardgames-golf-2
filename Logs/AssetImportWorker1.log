@@ -5067,3 +5067,192 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1412.755834 seconds.
+  path: Assets/02- Golf/_Sprites/Card_Back.png
+  artifactKey: Guid(ab84ce8a1abd00142b6537eecb63a567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/Card_Back.png using Guid(ab84ce8a1abd00142b6537eecb63a567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9943ec90725104790cda2665216c1d3b') in 0.100335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/02- Golf/_Sprites/Card_Back_Gold.png
+  artifactKey: Guid(1b4efeec988f6da4dbacd35a98997b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/Card_Back_Gold.png using Guid(1b4efeec988f6da4dbacd35a98997b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6f117be26141a7e394f8445e32fa9a') in 0.022948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/01-Prospector/_Sprites/Card_Front.png
+  artifactKey: Guid(873a7658b7ec742228520c7b15510f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/Card_Front.png using Guid(873a7658b7ec742228520c7b15510f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29c013ec25bf5e0c361ac15e39826a0') in 0.014504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/01-Prospector/_Sprites/Card_Back_Gold.png
+  artifactKey: Guid(8ecf4828943064b3a96f6258b54c0f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/Card_Back_Gold.png using Guid(8ecf4828943064b3a96f6258b54c0f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a81aa42a086f8d40b6fb92516a33ff4') in 0.023231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.447490 seconds.
+  path: Assets/02- Golf/_Sprites/Club.png
+  artifactKey: Guid(574a555176eb1d94b82763ea71039841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/Club.png using Guid(574a555176eb1d94b82763ea71039841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e98d7bdaea40c12b0e2dbcc181676f') in 0.023743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 12.245542 seconds.
+  path: Assets/02- Golf/_Sprites/Diamond.png
+  artifactKey: Guid(93c7a861d73ba744094ceff2d45a3891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/Diamond.png using Guid(93c7a861d73ba744094ceff2d45a3891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39140ea60ef141a3669ee112390badd5') in 0.019466 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.899343 seconds.
+  path: Assets/02- Golf/_Sprites/Heart.png
+  artifactKey: Guid(45176eeddd1d84c48be577f9a4f13ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/Heart.png using Guid(45176eeddd1d84c48be577f9a4f13ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52166f210b1465d455d2591568e16ba') in 0.019204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.373823 seconds.
+  path: Assets/02- Golf/_Sprites/Spade.png
+  artifactKey: Guid(5698adefa686b8840b69724f045ce9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/Spade.png using Guid(5698adefa686b8840b69724f045ce9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14402964bbc1935b57b69ae27508ed11') in 0.021295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 59.658330 seconds.
+  path: Assets/02- Golf/_Prefabs/HIghScore.prefab
+  artifactKey: Guid(b550e48c8a1fd9845b215a936a6782a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Prefabs/HIghScore.prefab using Guid(b550e48c8a1fd9845b215a936a6782a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0220fd58314716577c2db1a2b415bafa') in 0.014714 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/02- Golf/_Prefabs/PrefabFloatingScore.prefab
+  artifactKey: Guid(2e5fcc653dfac3e4d8a6296da2c28d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Prefabs/PrefabFloatingScore.prefab using Guid(2e5fcc653dfac3e4d8a6296da2c28d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32730986556a3fd697f9f44699d00de') in 0.002890 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/02- Golf/_Prefabs/PrefabCard.prefab
+  artifactKey: Guid(792e76f46e084cf408aa0df606be7db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Prefabs/PrefabCard.prefab using Guid(792e76f46e084cf408aa0df606be7db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1511f25548b8ec92f1828773948cd68') in 0.023606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 77.185037 seconds.
+  path: Assets/02- Golf/_Sprites/Letters.png
+  artifactKey: Guid(c3bf7e650d02b1a40a4ce8cbd699f2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/Letters.png using Guid(c3bf7e650d02b1a40a4ce8cbd699f2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afff3dafac60b58308097d639143cbf') in 0.056693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 22.254817 seconds.
+  path: Assets/02- Golf/_Sprites/FaceCard_13H.png
+  artifactKey: Guid(32e64fa5d46227e40a44171a26ed1c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/FaceCard_13H.png using Guid(32e64fa5d46227e40a44171a26ed1c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b807010c5a1eae6cb8c739d52bb7454') in 0.021840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/01-Prospector/_Sprites/FaceCard_13H.png
+  artifactKey: Guid(ef50d4f09a2b3425fbbdb8ad5f8957b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/FaceCard_13H.png using Guid(ef50d4f09a2b3425fbbdb8ad5f8957b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c7c147be42e422453362039616d629') in 0.023194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.381884 seconds.
+  path: Assets/02- Golf/_Sprites/FaceCard_13D.png
+  artifactKey: Guid(e561c83a16955f64e8233995cef7ed34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/FaceCard_13D.png using Guid(e561c83a16955f64e8233995cef7ed34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1db45947ec993b4d0d9b27259bf39fa') in 0.027656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/01-Prospector/_Sprites/FaceCard_12S.png
+  artifactKey: Guid(1b117bad312e24b2791cbc7dd2ea6d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/FaceCard_12S.png using Guid(1b117bad312e24b2791cbc7dd2ea6d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '459067f5b9f626cbcdee84eb3141a95f') in 0.025619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/01-Prospector/_Sprites/FaceCard_12H.png
+  artifactKey: Guid(ee100e0d0a1c04759a5a7537cf5e8752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/FaceCard_12H.png using Guid(ee100e0d0a1c04759a5a7537cf5e8752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fd06a397e73d1f54a3c02fa983fa8b') in 0.026792 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.004090 seconds.
+  path: Assets/02- Golf/_Sprites/FaceCard_12C.png
+  artifactKey: Guid(b197ec1b35edeb645b32f2d03d2fed35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/FaceCard_12C.png using Guid(b197ec1b35edeb645b32f2d03d2fed35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc83471690373aaf1b07e7c82d9cc8a') in 0.029545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/02- Golf/_Sprites/FaceCard_12D.png
+  artifactKey: Guid(05a75dac1cddc28408e7aa68d6e3a31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/FaceCard_12D.png using Guid(05a75dac1cddc28408e7aa68d6e3a31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd834aa860fea978c287ad4ffcf4d27') in 0.026815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.288309 seconds.
+  path: Assets/01-Prospector/_Sprites/FaceCard_12C.png
+  artifactKey: Guid(d86c46d6378144162964786d621fb0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/FaceCard_12C.png using Guid(d86c46d6378144162964786d621fb0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '385acd834a90a4a5e3342fb858e721e0') in 0.022893 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/02- Golf/_Sprites/FaceCard_11H.png
+  artifactKey: Guid(4c081c4b721f5974f8c6d424c18f220f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02- Golf/_Sprites/FaceCard_11H.png using Guid(4c081c4b721f5974f8c6d424c18f220f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf360575fd042994eb2edd85815ac7b') in 0.022144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/01-Prospector/_Sprites/FaceCard_11H.png
+  artifactKey: Guid(21a6739a4135346e6956ca54075d8c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/FaceCard_11H.png using Guid(21a6739a4135346e6956ca54075d8c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224f63afd300563a4a624def859fb3ee') in 0.022230 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/01-Prospector/_Sprites/FaceCard_11D.png
+  artifactKey: Guid(c10418368653749f796f63e87cde78ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01-Prospector/_Sprites/FaceCard_11D.png using Guid(c10418368653749f796f63e87cde78ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9472a32abb7f21965c6863c3b18d0ff8') in 0.022579 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -83,7 +83,7 @@ namespace Golf
 
         void Start()
         {
-            Scoreboard.S.score = ScoreManager.SCORE;
+           // Scoreboard.S.score = ScoreManager.SCORE;
 
             deck = GetComponent<Deck>();
             deck.InitDeck(deckXML.text);
