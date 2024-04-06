@@ -892,7 +892,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'You got the high score!
 
-    HIgh Score: 124'
+    High Score: 124'
 --- !u!222 &1954354151
 CanvasRenderer:
   m_ObjectHideFlags: 0
